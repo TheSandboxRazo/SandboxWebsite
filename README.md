@@ -1,3 +1,1 @@
-# SandboxWebsite
-
-This reposiroty aims to be use as a sandbox. 
+This repository aims to store a sandbox website.
